@@ -1,12 +1,11 @@
 /* General Styles */
 body {
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Georgia', serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #000;
-    color: #fff;
-    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+    background-color: #fff;
+    color: #333;
     background-image: url('assets/img/academic-bg.jpg'); /* Add your academic background image here */
     background-size: cover;
     background-position: center;
@@ -22,6 +21,8 @@ header {
 header h1 {
     margin: 0;
     font-size: 2.5em;
+    font-family: 'Cursive', serif;
+    color: #fff;
 }
 
 nav ul {
@@ -73,6 +74,7 @@ main {
 
 .academic-section h2 {
     margin-top: 0;
+    font-family: 'Cursive', serif;
 }
 
 .content-box {
@@ -83,10 +85,18 @@ main {
     background-color: #fff;
 }
 
+.paper-background {
+    background: url('/pages/page1/feature1/paper.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 20px;
+    border-radius: 10px;
+}
+
 .content-box img {
     width: 100%;
     height: auto;
     border-radius: 10px;
+    margin-bottom: 20px;
 }
 
 footer {

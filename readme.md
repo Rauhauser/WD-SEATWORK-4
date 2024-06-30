@@ -57,7 +57,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+Displays the usage of headers, footers, landing pages different animations and pages.
 
 Guiding Question:
 - What is the project
@@ -68,15 +68,24 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+1. Navigation Bar
+2. Footer
+3. Image Gallery
+5. Hero Section
+6. Buttons
+7. Cards
+8. Social Media Icons
+9. Spinner
+10. Parallax Transition
+11. Transactional
+12. Responsive Design
+13. Interactive Elements
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -110,11 +119,12 @@ WD-ProjectName
 |     └─ index.html
 └─ index.html
 └─ readme.md
+
 ```
 
 ## Resources
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
+|W3schools|A guide|https://www.w3schools.com/css/css3_animations.asp|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
