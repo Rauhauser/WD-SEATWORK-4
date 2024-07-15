@@ -57,13 +57,9 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Displays the usage of headers, footers, landing pages different animations and pages.
+This website is meticulously designed to exhibit my current knowledge and skills in web development, focusing on creating visually appealing and interactive web pages. The site features a sophisticated landing page, followed by two subsequent pages, each showcasing unique designs and functionalities.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+The landing page is crafted with a game-like, pixelated design to immediately capture the visitor's attention. It features interactive elements such as an animated logo, dynamic buttons, and a welcoming message that reacts to user interactions. These elements are not only visually appealing but also demonstrate my proficiency in CSS animations creating a smooth and engaging user experience.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
